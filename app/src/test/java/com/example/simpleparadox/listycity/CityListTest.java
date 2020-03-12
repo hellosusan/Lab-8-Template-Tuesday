@@ -93,4 +93,8 @@ class CityListTest {
 
         assertEquals(1, cityList.countCities());
     }
+
+    void Lat8Test(){
+        assertEquals(1, 2);
+    }
 }
